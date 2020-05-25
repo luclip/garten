@@ -1,3 +1,3 @@
 # garten
-ich arbeite im Garten
-so schön
+
+so schön ist das
